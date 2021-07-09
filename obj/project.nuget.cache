@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jKzmiwsluT/tANuHPKcaLs2F5aHpi0CF2nTTgmKti5MG0vI3vv/A75ObE4ic6fcrqKE2O80cMhUN/QhzSihCQ==",
+  "success": true,
+  "projectFilePath": "/home/flaviosilva/Documentos/Projetos/DIO.Clubes2/DIO.Sertes.csproj",
+  "expectedPackageFiles": [
+    "/home/flaviosilva/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
